@@ -1,0 +1,6 @@
+[30-Oct-2015 14:08:08 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/emo/index.php on line 1
+[30-Oct-2015 14:08:08 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/emo/index.php on line 1
+[30-Oct-2015 14:08:08 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/emo/index.php on line 1
+[30-Oct-2015 14:08:08 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/emo/index.php on line 17
+[30-Oct-2015 14:08:08 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/emo/index.php on line 17
+[30-Oct-2015 14:08:08 UTC] PHP Warning:  include(): Failed opening './inc/footer.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/emo/index.php on line 17

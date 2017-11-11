@@ -1,0 +1,6 @@
+[25-Jan-2016 14:27:55 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/css/index.php on line 1
+[25-Jan-2016 14:27:55 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/css/index.php on line 1
+[25-Jan-2016 14:27:55 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/m/css/index.php on line 1
+[25-Jan-2016 14:27:55 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/css/index.php on line 17
+[25-Jan-2016 14:27:55 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/css/index.php on line 17
+[25-Jan-2016 14:27:55 UTC] PHP Warning:  include(): Failed opening './inc/footer.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/m/css/index.php on line 17

@@ -1,0 +1,1133 @@
+[24-Jan-2016 17:49:03 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[25-Jan-2016 02:02:34 UTC] PHP Warning:  include(./inc/login.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/passRecover.php on line 251
+[25-Jan-2016 02:02:34 UTC] PHP Warning:  include(./inc/login.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/passRecover.php on line 251
+[25-Jan-2016 02:02:34 UTC] PHP Warning:  include(): Failed opening './inc/login.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/m/passRecover.php on line 251
+[25-Jan-2016 02:02:34 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/passRecover.php on line 276
+[25-Jan-2016 02:02:34 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/passRecover.php on line 276
+[25-Jan-2016 02:02:34 UTC] PHP Warning:  include(): Failed opening './inc/footer.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/m/passRecover.php on line 276
+[25-Jan-2016 02:05:27 UTC] PHP Warning:  include(./inc/login.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/passRecover.php on line 251
+[25-Jan-2016 02:05:27 UTC] PHP Warning:  include(./inc/login.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/passRecover.php on line 251
+[25-Jan-2016 02:05:27 UTC] PHP Warning:  include(): Failed opening './inc/login.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/m/passRecover.php on line 251
+[25-Jan-2016 02:05:27 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/passRecover.php on line 276
+[25-Jan-2016 02:05:27 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/passRecover.php on line 276
+[25-Jan-2016 02:05:27 UTC] PHP Warning:  include(): Failed opening './inc/footer.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/m/passRecover.php on line 276
+[25-Jan-2016 02:05:30 UTC] PHP Warning:  include(./inc/login.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/passRecover.php on line 251
+[25-Jan-2016 02:05:30 UTC] PHP Warning:  include(./inc/login.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/passRecover.php on line 251
+[25-Jan-2016 02:05:30 UTC] PHP Warning:  include(): Failed opening './inc/login.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/m/passRecover.php on line 251
+[25-Jan-2016 02:05:30 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/passRecover.php on line 276
+[25-Jan-2016 02:05:30 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/passRecover.php on line 276
+[25-Jan-2016 02:05:30 UTC] PHP Warning:  include(): Failed opening './inc/footer.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/m/passRecover.php on line 276
+[26-Jan-2016 19:01:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/daowatco/public_html/m/index.php:3) in /home/daowatco/public_html/m/index.php on line 6
+[26-Jan-2016 19:01:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daowatco/public_html/m/index.php:3) in /home/daowatco/public_html/m/index.php on line 8
+[26-Jan-2016 19:15:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/daowatco/public_html/m/index.php:3) in /home/daowatco/public_html/m/index.php on line 6
+[26-Jan-2016 19:15:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daowatco/public_html/m/index.php:3) in /home/daowatco/public_html/m/index.php on line 8
+[26-Jan-2016 19:18:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/daowatco/public_html/m/index.php:3) in /home/daowatco/public_html/m/index.php on line 6
+[26-Jan-2016 19:18:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daowatco/public_html/m/index.php:3) in /home/daowatco/public_html/m/index.php on line 8
+[26-Jan-2016 19:19:28 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/daowatco/public_html/m/index.php:3) in /home/daowatco/public_html/m/index.php on line 6
+[26-Jan-2016 19:19:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/daowatco/public_html/m/index.php:3) in /home/daowatco/public_html/m/index.php on line 6
+[26-Jan-2016 19:19:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daowatco/public_html/m/index.php:3) in /home/daowatco/public_html/m/index.php on line 8
+[26-Jan-2016 19:21:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/daowatco/public_html/m/index.php:3) in /home/daowatco/public_html/m/index.php on line 6
+[26-Jan-2016 19:21:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daowatco/public_html/m/index.php:3) in /home/daowatco/public_html/m/index.php on line 8
+[26-Jan-2016 19:22:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/daowatco/public_html/m/index.php:3) in /home/daowatco/public_html/m/index.php on line 6
+[26-Jan-2016 19:22:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daowatco/public_html/m/index.php:3) in /home/daowatco/public_html/m/index.php on line 8
+[26-Jan-2016 19:26:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/daowatco/public_html/m/index.php:3) in /home/daowatco/public_html/m/index.php on line 6
+[26-Jan-2016 19:26:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daowatco/public_html/m/index.php:3) in /home/daowatco/public_html/m/index.php on line 8
+[26-Jan-2016 19:26:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/daowatco/public_html/m/index.php:3) in /home/daowatco/public_html/m/index.php on line 6
+[26-Jan-2016 19:26:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/daowatco/public_html/m/index.php:3) in /home/daowatco/public_html/m/index.php on line 8
+[26-Jan-2016 20:37:44 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 18
+[27-Jan-2016 12:57:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/daowatco/public_html/m/newsfeed.php on line 165
+[27-Jan-2016 13:08:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/daowatco/public_html/m/newsfeed.php on line 165
+[27-Jan-2016 13:16:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/daowatco/public_html/m/newsfeed.php on line 165
+[27-Jan-2016 13:17:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/daowatco/public_html/m/newsfeed.php on line 165
+[27-Jan-2016 13:24:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/daowatco/public_html/m/newsfeed.php on line 152
+[27-Jan-2016 13:30:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/daowatco/public_html/m/newsfeed.php on line 152
+[27-Jan-2016 13:39:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/daowatco/public_html/m/newsfeed.php on line 152
+[27-Jan-2016 13:56:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/daowatco/public_html/m/newsfeed.php on line 152
+[27-Jan-2016 13:58:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/daowatco/public_html/m/newsfeed.php on line 152
+[27-Jan-2016 14:01:46 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:01:46 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:01:46 UTC] PHP Warning:  include(./inc/profilefooter.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/newsfeed.php on line 115
+[27-Jan-2016 14:01:46 UTC] PHP Warning:  include(./inc/profilefooter.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/newsfeed.php on line 115
+[27-Jan-2016 14:01:46 UTC] PHP Warning:  include(): Failed opening './inc/profilefooter.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/m/newsfeed.php on line 115
+[27-Jan-2016 14:04:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:04:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:04:18 UTC] PHP Warning:  include(./inc/profilefooter.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/newsfeed.php on line 115
+[27-Jan-2016 14:04:18 UTC] PHP Warning:  include(./inc/profilefooter.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/newsfeed.php on line 115
+[27-Jan-2016 14:04:18 UTC] PHP Warning:  include(): Failed opening './inc/profilefooter.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/m/newsfeed.php on line 115
+[27-Jan-2016 14:05:31 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:05:31 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:05:31 UTC] PHP Warning:  include(./inc/profilefooter.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/newsfeed.php on line 115
+[27-Jan-2016 14:05:31 UTC] PHP Warning:  include(./inc/profilefooter.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/newsfeed.php on line 115
+[27-Jan-2016 14:05:31 UTC] PHP Warning:  include(): Failed opening './inc/profilefooter.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/m/newsfeed.php on line 115
+[27-Jan-2016 14:08:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:08:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:08:57 UTC] PHP Warning:  include(./inc/profilefooter.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/newsfeed.php on line 128
+[27-Jan-2016 14:08:57 UTC] PHP Warning:  include(./inc/profilefooter.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/newsfeed.php on line 128
+[27-Jan-2016 14:08:57 UTC] PHP Warning:  include(): Failed opening './inc/profilefooter.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/m/newsfeed.php on line 128
+[27-Jan-2016 14:10:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:10:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:10:07 UTC] PHP Warning:  include(./inc/profilefooter.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/newsfeed.php on line 130
+[27-Jan-2016 14:10:07 UTC] PHP Warning:  include(./inc/profilefooter.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/m/newsfeed.php on line 130
+[27-Jan-2016 14:10:07 UTC] PHP Warning:  include(): Failed opening './inc/profilefooter.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/m/newsfeed.php on line 130
+[27-Jan-2016 14:11:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:11:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:13:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:13:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:14:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:14:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:16:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:16:11 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:20:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:20:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:20:41 UTC] PHP Parse error:  syntax error, unexpected '") {' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/daowatco/public_html/m/inc/newsfeed.inc.php on line 73
+[27-Jan-2016 14:21:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:21:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:24:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:24:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:25:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:25:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:31:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:31:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:33:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:33:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:35:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:35:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:49:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:49:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:49:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:49:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:54:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:54:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:58:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:58:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 14:59:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 14:59:25 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:01:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:01:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:02:02 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:02:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:02:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:02:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:05:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:05:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:10:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:10:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:14:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:14:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:16:17 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:16:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:22:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:22:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:23:48 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:23:48 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:23:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:23:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:24:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:24:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:42:01 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:42:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:42:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:42:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:43:05 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:43:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:43:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:43:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:49:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:49:15 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:50:54 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:50:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:52:17 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:52:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:52:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:52:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 15:53:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 15:53:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 16:02:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 16:02:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 16:04:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 16:04:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 16:06:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 16:06:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 16:06:17 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 16:06:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 16:07:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 16:07:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 16:08:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 16:08:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 16:09:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 16:09:13 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 16:15:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 16:15:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 16:17:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 16:17:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 16:24:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 16:24:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 16:25:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 16:25:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 16:27:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 16:27:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 16:30:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 16:30:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 16:33:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 16:33:24 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 16:51:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 16:51:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 16:51:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 16:51:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 16:58:36 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 16:58:36 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 17:05:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 17:05:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 17:05:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 17:05:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 17:07:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 17:07:15 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 17:09:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 17:09:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 17:11:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 17:11:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 17:13:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 17:13:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 17:16:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 17:16:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 17:17:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 17:17:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 17:21:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 17:21:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 17:21:45 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 17:21:45 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 17:26:17 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 17:26:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 17:26:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 17:26:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 17:27:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 17:27:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 17:28:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 17:28:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 17:29:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 17:29:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 17:41:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 17:41:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 17:41:48 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 17:41:48 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 18:12:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 18:12:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 18:13:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 18:13:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 18:17:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 18:17:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 18:20:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 18:20:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 18:21:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 18:21:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 18:25:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 18:25:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 18:25:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 18:25:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 18:31:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 18:31:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 18:32:36 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 18:32:36 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 18:37:02 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 18:37:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 18:41:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 18:41:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 18:42:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 18:42:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 18:43:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 18:43:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 18:55:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 18:55:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 18:57:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 18:57:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 18:59:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 18:59:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 19:00:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 19:00:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 19:05:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 19:05:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 19:05:45 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 19:05:45 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 19:09:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 19:09:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 19:11:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 19:11:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[27-Jan-2016 19:12:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[27-Jan-2016 19:12:25 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[28-Jan-2016 03:12:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[28-Jan-2016 03:12:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[28-Jan-2016 03:15:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[28-Jan-2016 03:15:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[28-Jan-2016 03:19:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[28-Jan-2016 03:19:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[28-Jan-2016 03:20:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[28-Jan-2016 03:20:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[28-Jan-2016 03:25:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[28-Jan-2016 03:25:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[28-Jan-2016 08:59:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[28-Jan-2016 08:59:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[28-Jan-2016 09:00:02 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[28-Jan-2016 09:00:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[28-Jan-2016 09:03:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[28-Jan-2016 09:03:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 04:38:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 04:38:44 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 04:39:02 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 04:39:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 04:39:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 04:39:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 04:43:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 04:43:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 04:46:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 04:46:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 12:30:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 12:30:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 12:32:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 12:32:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 12:33:01 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 12:33:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 12:45:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 12:45:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 12:45:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 12:45:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 12:47:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 12:47:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 12:47:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 12:47:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 12:54:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 12:54:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 12:57:11 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 18
+[29-Jan-2016 12:58:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 12:58:25 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 12:59:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 12:59:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 12:59:46 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 12:59:46 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 13:00:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 13:00:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 13:00:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 13:00:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 13:00:53 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 13:00:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[29-Jan-2016 15:25:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[29-Jan-2016 15:25:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[31-Jan-2016 02:15:46 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[31-Jan-2016 02:15:46 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[31-Jan-2016 07:29:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[31-Jan-2016 07:29:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[01-Feb-2016 12:06:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[01-Feb-2016 12:06:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[01-Feb-2016 12:06:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[01-Feb-2016 12:06:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[01-Feb-2016 15:53:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[01-Feb-2016 15:53:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[01-Feb-2016 16:21:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[01-Feb-2016 16:21:11 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[01-Feb-2016 19:33:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[01-Feb-2016 19:33:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[01-Feb-2016 19:37:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[01-Feb-2016 19:37:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 05:15:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 05:15:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 08:57:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 08:57:00 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 08:57:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 08:57:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 09:05:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 09:05:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 09:06:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 09:06:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 09:07:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 09:07:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 09:07:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 09:07:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 09:31:05 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 09:31:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 09:32:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 09:32:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 09:32:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 09:32:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 09:37:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 09:37:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 09:39:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 09:39:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 09:41:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 09:41:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 09:42:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 09:42:11 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 09:50:26 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting ',' or ';' in /home/daowatco/public_html/m/profile.php on line 60
+[02-Feb-2016 09:50:31 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting ',' or ';' in /home/daowatco/public_html/m/profile.php on line 60
+[02-Feb-2016 09:55:25 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting ',' or ';' in /home/daowatco/public_html/m/profile.php on line 60
+[02-Feb-2016 09:56:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 09:56:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 10:00:54 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting ',' or ';' in /home/daowatco/public_html/m/profile.php on line 60
+[02-Feb-2016 10:01:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 10:01:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 10:02:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 10:02:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 10:05:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 10:05:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 10:05:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 10:05:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 10:06:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 10:06:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 10:07:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 10:07:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 10:08:45 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 10:08:45 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 14:04:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 14:04:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 15:08:48 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 15:08:48 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 15:09:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 15:09:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 15:32:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 15:32:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 15:32:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 15:32:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 16:04:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 16:04:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 16:04:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 16:04:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 16:13:05 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 16:13:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 16:13:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 16:13:25 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 16:13:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 16:13:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 16:14:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 16:14:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 16:14:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 16:14:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 16:49:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 16:49:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 16:51:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 16:51:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 17:02:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 17:02:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[02-Feb-2016 17:06:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[02-Feb-2016 17:06:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 02:59:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 02:59:00 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 03:03:17 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 03:03:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 03:05:43 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 03:05:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 03:07:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 03:07:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 03:16:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 03:16:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 03:20:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 03:20:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 03:20:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 03:20:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 07:01:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 07:01:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 07:04:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 07:04:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 14:10:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 14:10:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 14:41:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 14:41:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 14:42:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 14:42:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 14:56:39 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/daowatco/public_html/m/viewDaowat.php on line 112
+[03-Feb-2016 14:56:44 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/daowatco/public_html/m/viewDaowat.php on line 112
+[03-Feb-2016 14:59:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 14:59:44 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 14:59:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 14:59:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:01:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:01:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:02:43 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:02:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:02:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:02:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:08:01 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:08:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:12:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:12:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:13:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:13:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:14:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:14:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:16:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:16:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:19:48 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:19:48 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:22:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:22:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:30:31 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:30:31 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:30:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:30:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:31:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:31:00 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:31:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:31:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:32:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:32:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:43:53 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:43:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:51:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:51:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:51:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:51:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 15:57:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 15:57:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 16:22:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 16:22:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 16:26:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 16:26:24 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 16:30:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 16:30:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 16:45:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 16:45:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 16:57:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 16:57:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 16:59:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 16:59:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 17:00:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 17:00:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 18:04:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 18:04:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 18:55:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 18:55:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 19:08:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 19:08:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[03-Feb-2016 21:23:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[03-Feb-2016 21:23:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[04-Feb-2016 04:13:48 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[04-Feb-2016 04:13:48 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[04-Feb-2016 07:37:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[04-Feb-2016 07:37:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[04-Feb-2016 07:40:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[04-Feb-2016 07:40:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[04-Feb-2016 07:51:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[04-Feb-2016 07:51:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[04-Feb-2016 08:07:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[04-Feb-2016 08:07:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[04-Feb-2016 11:18:45 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[04-Feb-2016 11:18:45 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[04-Feb-2016 11:20:36 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[04-Feb-2016 11:20:36 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[04-Feb-2016 16:21:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[04-Feb-2016 16:21:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[04-Feb-2016 18:12:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[04-Feb-2016 18:12:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[05-Feb-2016 04:37:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[05-Feb-2016 04:37:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[05-Feb-2016 04:37:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[05-Feb-2016 04:37:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[05-Feb-2016 09:21:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[05-Feb-2016 09:21:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[05-Feb-2016 16:37:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[05-Feb-2016 16:37:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[05-Feb-2016 16:44:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[05-Feb-2016 16:44:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[05-Feb-2016 18:33:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[05-Feb-2016 18:33:44 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[05-Feb-2016 20:25:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[05-Feb-2016 20:25:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[05-Feb-2016 20:26:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[05-Feb-2016 20:26:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[05-Feb-2016 20:34:46 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[05-Feb-2016 20:34:46 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[05-Feb-2016 20:36:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[05-Feb-2016 20:36:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[05-Feb-2016 20:37:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[05-Feb-2016 20:37:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[06-Feb-2016 08:51:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[06-Feb-2016 08:51:24 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[06-Feb-2016 19:46:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[06-Feb-2016 19:46:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[06-Feb-2016 19:53:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[06-Feb-2016 19:53:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[06-Feb-2016 20:06:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[06-Feb-2016 20:06:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[06-Feb-2016 20:08:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[06-Feb-2016 20:08:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[07-Feb-2016 05:34:33 UTC] PHP Parse error:  syntax error, unexpected '' && $user_position == '' (T_CONSTANT_ENCAPSED_STRING) in /home/daowatco/public_html/m/about.php on line 115
+[07-Feb-2016 05:35:18 UTC] PHP Parse error:  syntax error, unexpected 'style' (T_STRING) in /home/daowatco/public_html/m/about.php on line 113
+[07-Feb-2016 06:05:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[07-Feb-2016 06:05:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[07-Feb-2016 06:12:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[07-Feb-2016 06:12:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[07-Feb-2016 06:24:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[07-Feb-2016 06:24:13 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[07-Feb-2016 06:31:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[07-Feb-2016 06:31:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[07-Feb-2016 21:50:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[07-Feb-2016 21:50:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[07-Feb-2016 22:14:02 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[07-Feb-2016 22:14:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[08-Feb-2016 10:05:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[08-Feb-2016 10:05:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[08-Feb-2016 10:07:43 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[08-Feb-2016 10:07:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[08-Feb-2016 10:07:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[08-Feb-2016 10:07:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[08-Feb-2016 10:07:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[08-Feb-2016 10:07:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[08-Feb-2016 10:08:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[08-Feb-2016 10:08:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[08-Feb-2016 10:08:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[08-Feb-2016 10:08:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[08-Feb-2016 10:08:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[08-Feb-2016 10:08:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[08-Feb-2016 10:08:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[08-Feb-2016 10:08:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[08-Feb-2016 10:09:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[08-Feb-2016 10:09:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 10:29:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 10:29:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 10:44:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 10:44:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 10:49:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 10:49:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 14:15:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 14:15:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:04:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:04:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:07:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:07:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:07:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:07:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:09:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:09:15 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:11:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:11:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:12:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:12:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:13:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:13:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:15:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:15:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:17:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:17:00 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:22:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:22:25 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:23:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:23:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:27:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:27:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:29:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:29:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:34:36 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:34:36 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:38:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:38:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:40:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:40:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:41:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:41:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:42:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:42:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:42:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:42:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:42:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:42:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:44:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:44:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:55:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:55:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 16:58:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 16:58:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 17:19:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 17:19:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 17:20:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 17:20:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 17:30:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 17:30:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 17:30:45 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 17:30:45 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 17:33:36 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 17:33:36 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 17:43:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 17:43:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 17:43:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 17:43:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 17:45:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 17:45:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 17:46:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 17:46:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 17:47:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 17:47:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 17:47:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 17:47:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 17:49:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 17:49:13 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 17:49:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 17:49:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 17:51:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 17:51:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 17:53:02 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 17:53:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 17:56:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 17:56:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 17:59:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 17:59:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 18:01:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 18:01:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 18:02:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 18:02:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 18:02:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 18:02:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 18:05:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 18:05:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 18:06:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 18:06:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 18:10:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 18:10:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 18:11:05 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 18:11:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 18:13:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 18:13:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 18:14:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 18:14:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 18:16:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 18:16:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 18:18:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 18:18:13 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 18:18:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 18:18:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 18:18:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 18:18:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 18:20:02 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 18:20:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 19:44:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 19:44:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[09-Feb-2016 19:59:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[09-Feb-2016 19:59:11 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[10-Feb-2016 07:07:02 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[10-Feb-2016 07:07:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[10-Feb-2016 07:09:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[10-Feb-2016 07:09:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[10-Feb-2016 07:09:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[10-Feb-2016 07:09:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[10-Feb-2016 07:09:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[10-Feb-2016 07:09:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[10-Feb-2016 07:15:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[10-Feb-2016 07:15:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[10-Feb-2016 08:40:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[10-Feb-2016 08:40:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[10-Feb-2016 08:41:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[10-Feb-2016 08:41:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[10-Feb-2016 12:59:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[10-Feb-2016 12:59:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[10-Feb-2016 13:05:36 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[10-Feb-2016 13:05:36 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[11-Feb-2016 05:06:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[11-Feb-2016 05:06:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[11-Feb-2016 20:27:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[11-Feb-2016 20:27:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[12-Feb-2016 09:13:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/messages.php on line 44
+[12-Feb-2016 09:14:46 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/messages.php on line 44
+[12-Feb-2016 09:15:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/messages.php on line 44
+[12-Feb-2016 09:16:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/messages.php on line 44
+[12-Feb-2016 09:16:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/messages.php on line 44
+[12-Feb-2016 09:28:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/messages.php on line 44
+[12-Feb-2016 09:35:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[12-Feb-2016 09:35:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[12-Feb-2016 12:10:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[12-Feb-2016 12:10:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[12-Feb-2016 18:33:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[12-Feb-2016 18:33:24 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[13-Feb-2016 23:50:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[13-Feb-2016 23:50:36 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 08:48:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 08:48:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 08:54:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 08:54:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 08:54:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 08:54:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 09:16:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 09:16:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 09:17:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 09:17:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 09:19:01 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 09:19:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 09:20:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 09:20:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 09:20:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 09:20:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 09:22:05 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 09:22:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 09:24:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 09:24:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 09:27:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 09:27:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 09:27:18 UTC] PHP Parse error:  syntax error, unexpected 'style' (T_STRING), expecting ',' or ';' in /home/daowatco/public_html/m/viewPost.php on line 114
+[14-Feb-2016 09:31:53 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 09:31:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 09:33:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 09:33:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 09:39:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 09:39:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 09:43:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 09:43:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 09:54:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 09:54:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 10:02:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 10:02:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 11:44:53 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 11:44:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 12:00:01 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 12:00:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 12:05:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 12:05:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 12:05:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 12:05:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 12:06:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 12:06:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 12:07:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 12:07:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 12:08:02 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 12:08:02 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 12:16:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 12:16:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 12:16:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 12:16:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 12:16:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 12:16:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 12:18:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 12:18:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 12:29:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 12:29:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 12:33:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 12:33:24 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 12:33:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 12:33:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 12:35:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 12:35:00 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 12:35:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 12:35:11 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 12:36:34 UTC] PHP Warning:  unlink(./userdata/profile_pics/): No such file or directory in /home/daowatco/public_html/m/deletePost.php on line 20
+[14-Feb-2016 12:36:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 12:36:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 13:05:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 13:05:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 13:07:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 13:07:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 13:08:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 13:08:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 13:11:20 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 13:11:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 13:18:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 13:18:24 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 13:52:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 13:52:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 14:00:35 UTC] PHP Parse error:  syntax error, unexpected 'float' (T_STRING), expecting ',' or ';' in /home/daowatco/public_html/m/inc/profile.inc.php on line 121
+[14-Feb-2016 14:09:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 14:09:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 14:16:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 14:16:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 14:18:20 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 14:18:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 14:34:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 14:34:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 14:56:20 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 14:56:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:05:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:05:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:05:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:05:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:05:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:05:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:05:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:05:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:09:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:09:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:14:01 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:14:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:20:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:20:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:20:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:20:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:23:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:23:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:24:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:24:44 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:34:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:34:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:35:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:35:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:35:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:35:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:35:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:35:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:35:53 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:35:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:36:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:36:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:36:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:36:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:36:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:36:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:41:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:41:24 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:44:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:44:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:45:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:45:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:45:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:45:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:46:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:46:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:48:01 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:48:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:48:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:48:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:49:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:49:11 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 15:50:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 15:50:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 17:20:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 17:20:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[14-Feb-2016 20:56:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[14-Feb-2016 20:56:25 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[15-Feb-2016 06:03:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[15-Feb-2016 06:03:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[15-Feb-2016 06:03:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[15-Feb-2016 06:03:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[15-Feb-2016 06:04:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[15-Feb-2016 06:04:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[15-Feb-2016 22:43:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[15-Feb-2016 22:43:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[16-Feb-2016 08:06:53 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[16-Feb-2016 08:07:31 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[16-Feb-2016 08:55:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[16-Feb-2016 08:55:25 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[16-Feb-2016 09:03:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[16-Feb-2016 09:03:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[16-Feb-2016 09:42:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[16-Feb-2016 09:42:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[18-Feb-2016 09:54:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[18-Feb-2016 09:54:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[18-Feb-2016 09:59:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[18-Feb-2016 09:59:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[19-Feb-2016 14:20:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[19-Feb-2016 14:20:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[19-Feb-2016 14:20:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[19-Feb-2016 14:20:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[19-Feb-2016 14:21:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[19-Feb-2016 14:21:00 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[19-Feb-2016 14:23:43 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[19-Feb-2016 14:23:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[20-Feb-2016 07:25:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[20-Feb-2016 07:25:44 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[21-Feb-2016 03:46:53 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[21-Feb-2016 03:46:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[21-Feb-2016 03:47:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[21-Feb-2016 03:47:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[21-Feb-2016 03:47:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[21-Feb-2016 03:47:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[21-Feb-2016 03:47:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[21-Feb-2016 03:47:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[21-Feb-2016 09:16:17 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[21-Feb-2016 09:16:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[21-Feb-2016 09:27:36 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[21-Feb-2016 09:28:10 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[21-Feb-2016 09:32:03 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvQY8qr' to 'http://www.daowat.com/userdata/daowat_pics/nur/1456047123.jpg' in /home/daowatco/public_html/m/composedaowat.php on line 61
+[21-Feb-2016 09:44:42 UTC] PHP Warning:  move_uploaded_file(/public_html/userdata/daowat_pics/nur/1456047882.jpg): failed to open stream: No such file or directory in /home/daowatco/public_html/m/composedaowat.php on line 61
+[21-Feb-2016 09:44:42 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3brfVk' to '/public_html/userdata/daowat_pics/nur/1456047882.jpg' in /home/daowatco/public_html/m/composedaowat.php on line 61
+[21-Feb-2016 09:48:43 UTC] PHP Warning:  move_uploaded_file(/./userdata/daowat_pics/nur/1456048123.jpg): failed to open stream: No such file or directory in /home/daowatco/public_html/m/composedaowat.php on line 61
+[21-Feb-2016 09:48:43 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpktp9Rp' to '/./userdata/daowat_pics/nur/1456048123.jpg' in /home/daowatco/public_html/m/composedaowat.php on line 61
+[21-Feb-2016 09:49:30 UTC] PHP Warning:  move_uploaded_file(/../userdata/daowat_pics/nur/1456048170.jpg): failed to open stream: No such file or directory in /home/daowatco/public_html/m/composedaowat.php on line 61
+[21-Feb-2016 09:49:30 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprHaSDK' to '/../userdata/daowat_pics/nur/1456048170.jpg' in /home/daowatco/public_html/m/composedaowat.php on line 61
+[21-Feb-2016 10:04:28 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[21-Feb-2016 10:04:58 UTC] PHP Warning:  move_uploaded_file(/../.../userdata/daowat_pics/nur/1456049098.jpg): failed to open stream: No such file or directory in /home/daowatco/public_html/m/composedaowat.php on line 61
+[21-Feb-2016 10:04:58 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpIN2lql' to '/../.../userdata/daowat_pics/nur/1456049098.jpg' in /home/daowatco/public_html/m/composedaowat.php on line 61
+[21-Feb-2016 10:06:22 UTC] PHP Warning:  move_uploaded_file(./userdata/daowat_pics/nur/1456049182.jpg): failed to open stream: No such file or directory in /home/daowatco/public_html/m/composedaowat.php on line 61
+[21-Feb-2016 10:06:22 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpzqWdea' to './userdata/daowat_pics/nur/1456049182.jpg' in /home/daowatco/public_html/m/composedaowat.php on line 61
+[21-Feb-2016 10:09:24 UTC] PHP Warning:  move_uploaded_file(/var/www/vhosts/daowat.com/userdata/daowat_pics/nur/1456049364.jpg): failed to open stream: No such file or directory in /home/daowatco/public_html/m/composedaowat.php on line 61
+[21-Feb-2016 10:09:24 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpCXMcq0' to '/var/www/vhosts/daowat.com/userdata/daowat_pics/nur/1456049364.jpg' in /home/daowatco/public_html/m/composedaowat.php on line 61
+[21-Feb-2016 10:14:06 UTC] PHP Warning:  move_uploaded_file(/var/www/vhosts/daowat.com/userdata/daowat_pics/mohsin/1456049646.jpg): failed to open stream: No such file or directory in /home/daowatco/public_html/m/composedaowat.php on line 61
+[21-Feb-2016 10:14:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpetP6II' to '/var/www/vhosts/daowat.com/userdata/daowat_pics/mohsin/1456049646.jpg' in /home/daowatco/public_html/m/composedaowat.php on line 61
+[21-Feb-2016 10:24:44 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phptI7V3x' to 'http://www.daowat.com/userdata/daowat_pics/nur/1456050284.jpg' in /home/daowatco/public_html/m/composedaowat.php on line 65
+[21-Feb-2016 10:24:57 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[21-Feb-2016 10:26:16 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[21-Feb-2016 10:26:22 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[21-Feb-2016 10:26:28 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[21-Feb-2016 10:26:41 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[21-Feb-2016 10:26:51 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[21-Feb-2016 10:26:56 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[21-Feb-2016 10:27:02 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[21-Feb-2016 10:28:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[21-Feb-2016 10:28:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[21-Feb-2016 10:29:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[21-Feb-2016 10:29:15 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[21-Feb-2016 10:36:09 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[21-Feb-2016 10:39:41 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnm7qub' to 'http://www.daowat.com/userdata/daowat_pics/nur/1456051181.jpg' in /home/daowatco/public_html/m/composedaowat.php on line 65
+[21-Feb-2016 10:40:07 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[21-Feb-2016 10:41:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[21-Feb-2016 10:41:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[21-Feb-2016 10:42:02 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBJW5cw' to 'http://www.daowat.com/userdata/daowat_pics/nur/1456051322.jpg' in /home/daowatco/public_html/m/composedaowat.php on line 65
+[21-Feb-2016 11:15:10 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[21-Feb-2016 11:17:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 60
+[21-Feb-2016 11:17:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 61
+[21-Feb-2016 11:27:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 64
+[21-Feb-2016 11:27:00 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 65
+[21-Feb-2016 11:31:53 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 47
+[21-Feb-2016 11:31:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/newsfeed.php on line 48
+[21-Feb-2016 11:43:02 UTC] PHP Warning:  unlink(./userdata/profile_pics/): No such file or directory in /home/daowatco/public_html/m/deletePost.php on line 20
+[21-Feb-2016 21:04:29 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[21-Feb-2016 21:05:32 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppLkLX1' to 'http://www.daowat.com/userdata/profile_pics/nur/1456088732.jpg' in /home/daowatco/public_html/m/composepost.php on line 65
+[22-Feb-2016 18:54:29 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpuqf8lr' to 'http://www.daowat.com/userdata/daowat_pics/nur/1456167269.jpg' in /home/daowatco/public_html/m/composedaowat.php on line 65
+[22-Feb-2016 18:54:41 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[22-Feb-2016 18:57:27 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[25-Feb-2016 04:30:47 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSL5pOD' to 'http://www.daowat.com/userdata/daowat_pics/nur/1456374647.jpg' in /home/daowatco/public_html/m/composedaowat.php on line 66
+[25-Feb-2016 04:30:59 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[25-Feb-2016 04:42:59 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php50MGhE' to 'http://www.daowat.com/userdata/daowat_pics/nur/1456375379.jpg' in /home/daowatco/public_html/m/composedaowat.php on line 66
+[25-Feb-2016 04:43:29 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[25-Feb-2016 04:47:12 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[25-Feb-2016 04:48:03 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php92aD1a' to 'http://www.daowat.com/userdata/daowat_pics/mohsin/1456375683.jpg' in /home/daowatco/public_html/m/composedaowat.php on line 66
+[25-Feb-2016 04:49:35 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpyMj8Th' to 'http://www.daowat.com/userdata/daowat_pics/mohsin/1456375775.jpg' in /home/daowatco/public_html/m/composedaowat.php on line 66
+[25-Feb-2016 04:49:42 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[25-Feb-2016 04:50:53 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnsPnj7' to 'http://www.daowat.com/userdata/profile_pics/mohsin/1456375853.jpg' in /home/daowatco/public_html/m/composepost.php on line 65
+[25-Feb-2016 04:54:50 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphjvXFA' to 'http://www.daowat.com/userdata/profile_pics/mohsin/1456376090.jpg' in /home/daowatco/public_html/m/composepost.php on line 65
+[25-Feb-2016 04:55:07 UTC] PHP Warning:  unlink(./userdata/profile_pics/mohsin/1456375853.jpg): No such file or directory in /home/daowatco/public_html/m/deletePost.php on line 20
+[25-Feb-2016 04:55:19 UTC] PHP Warning:  unlink(./userdata/profile_pics/mohsin/1456376090.jpg): No such file or directory in /home/daowatco/public_html/m/deletePost.php on line 20
+[25-Feb-2016 04:59:27 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[29-Feb-2016 03:06:30 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpeMhiww' to 'http://www.daowat.com/userdata/daowat_pics/nur/1456715190.jpg' in /home/daowatco/public_html/m/composedaowat.php on line 66
+[29-Feb-2016 03:06:43 UTC] PHP Warning:  unlink(): cURL does not allow unlinking in /home/daowatco/public_html/m/deleteDaowat.php on line 20
+[07-Mar-2016 02:53:21 UTC] PHP Parse error:  syntax error, unexpected 'submit' (T_STRING), expecting ',' or ';' in /home/daowatco/public_html/m/inc/pplumayknow.inc.php on line 55
+[07-Mar-2016 02:56:12 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/daowatco/public_html/m/inc/pplumayknow.inc.php on line 59
+[07-Mar-2016 04:14:19 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/daowatco/public_html/m/inc/pplumayknow.inc.php on line 88
+[09-Mar-2016 06:41:34 UTC] PHP Warning:  unlink(./userdata/profile_pics/): No such file or directory in /home/daowatco/public_html/m/deletePost.php on line 20
+[09-Mar-2016 09:25:50 UTC] PHP Warning:  unlink(./userdata/profile_pics/): No such file or directory in /home/daowatco/public_html/m/deletePost.php on line 20
+[09-Mar-2016 09:25:56 UTC] PHP Warning:  unlink(./userdata/profile_pics/): No such file or directory in /home/daowatco/public_html/m/deletePost.php on line 20
+[09-Mar-2016 16:16:34 UTC] PHP Warning:  unlink(./userdata/profile_pics/): No such file or directory in /home/daowatco/public_html/m/moreoptions.php on line 30
+[09-Mar-2016 16:52:33 UTC] PHP Warning:  unlink(./userdata/profile_pics/): No such file or directory in /home/daowatco/public_html/m/moreoptions.php on line 30
+[09-Mar-2016 17:17:39 UTC] PHP Warning:  unlink(./userdata/profile_pics/): No such file or directory in /home/daowatco/public_html/m/moreoptions.php on line 30
+[09-Mar-2016 18:16:10 UTC] PHP Warning:  unlink(./userdata/profile_pics/): No such file or directory in /home/daowatco/public_html/m/moreoptions.php on line 30
+[10-Mar-2016 03:23:35 UTC] PHP Warning:  unlink(./userdata/profile_pics/): No such file or directory in /home/daowatco/public_html/m/moreoptions.php on line 30
+[10-Mar-2016 03:24:16 UTC] PHP Warning:  unlink(./userdata/profile_pics/): No such file or directory in /home/daowatco/public_html/m/moreoptions.php on line 30
+[10-Mar-2016 03:28:33 UTC] PHP Warning:  unlink(./userdata/profile_pics/): No such file or directory in /home/daowatco/public_html/m/moreoptions.php on line 30
+[10-Mar-2016 05:25:13 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[10-Mar-2016 05:25:21 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[10-Mar-2016 06:08:51 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home/daowatco/public_html/m/moreoptions.php on line 51
+[10-Mar-2016 06:08:59 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home/daowatco/public_html/m/moreoptions.php on line 51
+[10-Mar-2016 06:09:05 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home/daowatco/public_html/m/moreoptions.php on line 51
+[10-Mar-2016 06:09:40 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home/daowatco/public_html/m/moreoptions.php on line 51
+[10-Mar-2016 06:13:41 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 33
+[10-Mar-2016 07:09:57 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 33
+[10-Mar-2016 09:01:37 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/daowatco/public_html/m/moreoptions.php on line 323
+[10-Mar-2016 09:01:58 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/daowatco/public_html/m/moreoptions.php on line 323
+[10-Mar-2016 09:06:37 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/daowatco/public_html/m/viewPost.php on line 144
+[11-Mar-2016 04:29:51 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 04:30:03 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 04:34:28 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 04:34:36 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 04:34:45 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 04:35:13 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 05:33:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/daowatco/public_html/m/sharepost.php on line 31
+[11-Mar-2016 05:34:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/daowatco/public_html/m/sharepost.php on line 31
+[11-Mar-2016 06:46:34 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 06:46:47 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 06:47:06 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 06:47:16 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 06:47:24 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 06:47:32 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 06:47:40 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 06:47:51 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 06:48:03 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 06:48:11 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 06:48:20 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 06:48:59 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 09:35:42 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 13:41:34 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 15:21:13 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 27
+[11-Mar-2016 15:35:38 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 31
+[11-Mar-2016 15:36:50 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 31
+[11-Mar-2016 15:37:18 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 31
+[11-Mar-2016 15:41:54 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 31
+[11-Mar-2016 15:51:00 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 31
+[11-Mar-2016 16:40:55 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 33
+[11-Mar-2016 16:46:23 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 33
+[11-Mar-2016 16:54:56 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 33
+[11-Mar-2016 16:55:37 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 33
+[11-Mar-2016 19:30:39 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 33
+[12-Mar-2016 08:20:29 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[12-Mar-2016 08:21:41 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[12-Mar-2016 16:34:54 UTC] PHP Parse error:  syntax error, unexpected 'coll4' (T_STRING), expecting ',' or ';' in /home/daowatco/public_html/m/search.php on line 270
+[12-Mar-2016 16:45:59 UTC] PHP Parse error:  syntax error, unexpected 'coll4' (T_STRING), expecting ',' or ';' in /home/daowatco/public_html/m/search.php on line 273
+[13-Mar-2016 15:26:32 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[13-Mar-2016 15:27:41 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[13-Mar-2016 15:28:00 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[13-Mar-2016 16:37:49 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/daowatco/public_html/m/sharepost.php on line 172
+[22-Mar-2016 05:17:49 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 34
+[22-Mar-2016 06:11:47 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[22-Mar-2016 06:11:55 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[22-Mar-2016 06:12:00 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[22-Mar-2016 06:12:26 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[22-Mar-2016 06:12:37 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[22-Mar-2016 06:17:19 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[22-Mar-2016 06:17:27 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[22-Mar-2016 06:17:32 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[22-Mar-2016 06:21:38 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[22-Mar-2016 06:21:47 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[22-Mar-2016 06:30:00 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[22-Mar-2016 06:33:22 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[22-Mar-2016 06:40:44 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[22-Mar-2016 06:40:48 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[22-Mar-2016 06:40:55 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[22-Mar-2016 13:59:49 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 34
+[22-Mar-2016 14:41:17 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 34
+[28-Mar-2016 17:18:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/daowatco/public_html/m/buddylist.php on line 92
+[28-Mar-2016 17:18:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/daowatco/public_html/m/buddylist.php on line 92
+[28-Mar-2016 17:19:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/daowatco/public_html/m/buddylist.php on line 92
+[28-Mar-2016 17:19:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/daowatco/public_html/m/buddylist.php on line 92
+[28-Mar-2016 17:19:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/daowatco/public_html/m/buddylist.php on line 92
+[28-Mar-2016 17:22:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/daowatco/public_html/m/buddylist.php on line 92
+[28-Mar-2016 17:22:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/daowatco/public_html/m/buddylist.php on line 92
+[29-Mar-2016 06:19:11 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 34
+[29-Mar-2016 10:09:37 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[29-Mar-2016 10:10:00 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[29-Mar-2016 11:51:21 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 34
+[29-Mar-2016 11:51:28 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 34
+[29-Mar-2016 13:23:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/daowatco/public_html/m/messages.php on line 169
+[29-Mar-2016 13:23:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/daowatco/public_html/m/messages.php on line 169
+[29-Mar-2016 13:54:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/daowatco/public_html/m/buddylist.php on line 90
+[29-Mar-2016 13:54:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/daowatco/public_html/m/buddylist.php on line 90
+[29-Mar-2016 13:54:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/daowatco/public_html/m/buddylist.php on line 90
+[29-Mar-2016 16:21:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/daowatco/public_html/m/message.php on line 108
+[29-Mar-2016 17:42:46 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/daowatco/public_html/m/message.php on line 85
+[29-Mar-2016 17:48:13 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/daowatco/public_html/m/message.php on line 85
+[30-Mar-2016 01:04:37 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/daowatco/public_html/m/buddylist.php on line 91
+[30-Mar-2016 01:06:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/daowatco/public_html/m/buddylist.php on line 91
+[30-Mar-2016 01:08:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/daowatco/public_html/m/buddylist.php on line 91
+[30-Mar-2016 01:08:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/daowatco/public_html/m/buddylist.php on line 91
+[30-Mar-2016 01:10:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/daowatco/public_html/m/buddylist.php on line 91
+[30-Mar-2016 09:47:04 UTC] PHP Fatal error:  Call to undefined function NOW() in /home/daowatco/public_html/m/message.php on line 123
+[30-Mar-2016 09:47:08 UTC] PHP Fatal error:  Call to undefined function NOW() in /home/daowatco/public_html/m/message.php on line 123
+[30-Mar-2016 09:47:19 UTC] PHP Fatal error:  Call to undefined function NOW() in /home/daowatco/public_html/m/message.php on line 123
+[30-Mar-2016 09:50:31 UTC] PHP Fatal error:  Call to undefined function NOW() in /home/daowatco/public_html/m/message.php on line 123
+[30-Mar-2016 09:52:21 UTC] PHP Fatal error:  Call to undefined function NOW() in /home/daowatco/public_html/m/message.php on line 118
+[30-Mar-2016 10:56:07 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/daowatco/public_html/m/message.php on line 123
+[31-Mar-2016 13:44:46 UTC] PHP Parse error:  syntax error, unexpected '$region' (T_VARIABLE), expecting ',' or ';' in /home/daowatco/public_html/m/index.php on line 145
+[01-Apr-2016 13:13:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/inc/headerfmnoti.inc.php on line 4
+[01-Apr-2016 13:13:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/inc/headerfmnoti.inc.php on line 4
+[01-Apr-2016 13:13:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/inc/headerfmnoti.inc.php on line 4
+[01-Apr-2016 13:13:25 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/inc/headerfmnoti.inc.php on line 4
+[01-Apr-2016 13:13:44 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/inc/headerfmnoti.inc.php on line 4
+[01-Apr-2016 13:13:48 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/inc/headerfmnoti.inc.php on line 4
+[01-Apr-2016 13:13:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/inc/headerfmnoti.inc.php on line 4
+[01-Apr-2016 13:13:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/inc/headerfmnoti.inc.php on line 4
+[01-Apr-2016 13:13:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/m/inc/headerfmnoti.inc.php on line 4
+[01-Apr-2016 16:09:35 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 34
+[01-Apr-2016 17:08:41 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/daowatco/public_html/m/composepost.php on line 37
+[01-Apr-2016 17:08:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/daowatco/public_html/m/composepost.php on line 37
+[01-Apr-2016 17:09:20 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/daowatco/public_html/m/composepost.php on line 37
+[01-Apr-2016 17:11:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/daowatco/public_html/m/composepost.php on line 37
+[01-Apr-2016 17:21:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/daowatco/public_html/m/composepost.php on line 37
+[01-Apr-2016 17:23:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/daowatco/public_html/m/composepost.php on line 56
+[01-Apr-2016 17:29:03 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/daowatco/public_html/m/composepost.php on line 56
+[01-Apr-2016 17:29:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/daowatco/public_html/m/composepost.php on line 56
+[01-Apr-2016 17:31:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/daowatco/public_html/m/composepost.php on line 37
+[01-Apr-2016 17:37:58 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 34
+[01-Apr-2016 17:44:34 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 34
+[01-Apr-2016 17:44:47 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 34
+[03-Apr-2016 06:09:10 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[03-Apr-2016 06:09:12 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/daowatco/public_html/m/inc/connect.inc.php on line 2
+[03-Apr-2016 07:55:33 UTC] PHP Warning:  unlink(../userdata/profile_pics/): Is a directory in /home/daowatco/public_html/m/moreoptions.php on line 34
