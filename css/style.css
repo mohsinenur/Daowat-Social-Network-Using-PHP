@@ -1,0 +1,399 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/*my work start from here*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body, button, input, label, select, td, textarea {
+    font-family: Arial, Helvetica, tahoma,verdana,arial,sans-serif;
+    font-size: 12px;
+}
+body{
+    width: 100%;
+    position: relative;
+    background-color: #EEFFEE;
+}
+.headerLogin {
+  height: 82px;
+  width: 100%;
+  min-width: 980px;
+  border-bottom: 1px solid #8E9D8E;
+  margin:  0;
+  background-image: initial;
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: rgba(8, 138, 8, 0.75);
+}
+.login_menubar {
+  margin: 0 auto;
+  padding-top: 13px;
+  width: 980px;
+  min-width: 980px;
+}
+.clearfix::after {
+  clear: both;
+  content: ".";
+  display: block;
+  font-size: 0;
+  height: 0;
+  line-height: 0;
+  visibility: hidden;
+}
+.menu_logo h1 a b {
+  text-decoration: none;
+  font-size: 40px;
+  color: #FFFFFF;
+  float: left;
+  margin: 5px 0 0 0;
+  font-weight: bold;
+  padding: 0;
+  font-family: 'lucida grande',tahoma;
+}
+.menu_login_container {
+  float: right;
+  color: #333;
+}
+.menu_login_container table tr td {
+    padding: 0 0 4px 14px;
+}
+.menu_login_container .login_form_label_field {
+    margin-top: 1px;
+}
+.menu_login_container .inputtext, .menu_login_container .inputpassword {
+    border: 1px solid #088A08;
+    margin: 0;
+    width: 150px;
+    padding: 4px 5px;
+}
+.login_form_label_field:hover{
+    text-decoration: underline;
+    color: #088A08;
+}
+.uiInputLabelInput {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+}
+.uiInputLabelLabel {
+    display: inline-block;
+    margin-left: 14px;
+    margin-top: 2px;
+    vertical-align: baseline;
+}
+.logintd {
+  color: #FFFFFF;
+}
+.inputtext {
+  color: #333;
+  font-size: 12px;
+  margin: 3px 0;
+  padding: 2px;
+  line-height: 13px;
+  border-color: 1px solid #FFFFFF;
+}
+.uiloginbutton {
+    color: #FFFFFF;
+    background: #088A08;
+    border: 1px solid #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 15px;
+    padding: 3px 10px;
+    text-align: center;
+    text-decoration: none;
+}
+.uiloginbutton:hover {
+  background-color: #41A62D;
+}
+.logincheckbox {
+  margin-top: 1px;
+}
+.holecontainer {
+    padding: 0;
+    display: block;
+}
+.container {
+  margin: 0 auto;
+  height: 480px;
+  width: 980px;
+  min-width: 980px;
+}
+.maincontent {
+  width: 48%;
+  float: left;
+  text-align: left;
+  margin-top: 20px;
+  padding-left: 0px;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+.signupform_content {
+  width: 41%;
+  float: right;
+  text-align: left;
+  margin-top: 0;
+  padding: 0;
+}
+.maincontent h2 {
+  font-size: 50px;
+  padding-top: 50px;
+  font-weight: bold;
+  color: #41A62D;
+}
+.maincontent_text {
+  font-size: 34px;
+  line-height: 1.4;
+  padding: 30px 0 24px;
+  font-weight: bold;
+  color: #41A62D;
+  margin-left: 20px;
+  width: 90%;
+}
+.signupform_content h2 {
+  margin: 20px 0 0 0;
+  padding-right: 0px;
+  font-size: 40px;
+  color: #41A62D;
+  font-weight: bold;
+  text-align: center;
+}
+.signupform_text {
+  font-size: 18px;
+  padding: 0;
+  margin:10px 86px ;
+  font-weight: bold;
+  color: #41A62D;
+  font-style: normal;
+}
+.signup_form {
+  background-image: initial;
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: rgba(8, 138, 8, 0.75);
+  padding: 22px 53px 0 53px;
+  color: #FFFFFF;
+  border-radius: 4px;
+  font-style: italic;
+}
+.first_name {
+  width: 130px;
+  height: 20px;
+}
+.signupbox_wihei {
+  width: 279px;
+  height: 20px;
+}
+.passbox_wihei {
+  width: 242px;
+  height: 20px;
+}
+.signupbox {
+  font-size: 15px;
+  font-style: italic;
+  margin-bottom: 3px;
+  margin-top: 0px;
+  padding: 7px;
+  line-height: 25px;
+  border-radius: 4px;
+  border: 1px solid #088A08;
+  color: #333;
+  margin-left: 0;
+}
+.gender {
+  width: 182px;
+  margin: 0 auto;
+}
+.signupbutton {
+    background-color: #088A08;
+    border: 2px solid #FFFFFF;
+    border-radius: 6px;
+    margin: 15px 48px;
+}
+.uisignupbutton {
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 13px;
+    padding: 10px 0;
+    width: 200px;
+    text-align: center;
+    text-decoration: none;
+    border-width: 2px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1)
+}
+.uisignupbutton:hover {
+  background-color: #41A62D;
+}
+
+.signup_error_msg {
+  font-weight: bold;
+  color: #A92A2A;
+  padding: 0px 10px 15px 10px;
+  text-align: center;
+  font-size: 16px;
+}
+.succReg {
+    padding: 20px;
+    margin: 150px auto;
+    line-height: 1.5;
+    width: 930px;
+}
+.succReg p {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif; 
+  color: #0B810B;
+  text-align: center;
+}
+.succReg h1 {
+  font-size: 20px;
+  font-weight: bold; 
+  color: #737070;
+  text-align: center;
+}
+/*recovary style*/
+.pass_body1{
+}
+.pass_body2 {
+    text-align: center;
+    width: 560px;
+    color: #424242;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.2;
+    padding: 10px 10px 20px 10px;
+    background-color: #FFFFFF;
+    margin: 30px auto;
+    border-top: 1px solid #EAE6E6;
+    border-right: 1px solid #B5B2B2;
+    border-bottom: 2px solid #B5B2B2;
+    border-left: 1px solid #EAE6E6;
+    border-radius: 4px;
+}
+.pass_body2 p {
+    padding: 5px 8px;
+    font-size: 19px;
+    color: #088A08;
+    font-weight: bold;
+}
+.pass_body2 input {
+    color: #A9A6A6;
+    padding: 7px;
+    border-radius: 2px;
+    border: 1px solid #7C7979;
+}
+
+/*error echo*/
+.error_echo {
+  color: red;
+  text-align: center;
+  padding: 15px;
+  width: 868px;
+  margin: 0 auto;
+  font-weight: bold;
+  border-radius: 4px;
+  font-size: 17px;
+  background-color: #F3F38B;
+  border-bottom: 2px solid #BBB907;
+  border-top: 1px solid #BBB907;
+  border-left: 1px solid #BBB907;
+  border-right: 1px solid #BBB907;
+}
+.succes_echo {
+  color: #088A08;
+  text-align: center;
+  padding: 17px;
+  margin: 0 auto;
+  width: 866px;
+  font-weight: bold;
+  font-size: 17px;
+  background-color: rgba(247, 247, 69, 0.36);
+  border-bottom: 1px solid #BBB907;
+}
+.submRecov {
+    color: #A9A6A6;
+    padding: 7px;
+    border-radius: 2px;
+    border: 2px solid #7C7979;
+}
+.footer{
+    width: 100%;
+    height: 0px;
+    margin: 15px 0px;
+    padding: 0;
+    position: absolute;
+}
+.f_menu{
+    min-width: 980px;
+    font-size: 13px;
+    float: inherit;
+    text-decoration: none;
+    text-align: center;
+    margin: 15px 0 20px 0;
+}
+.f_menu2{
+  text-decoration: none;
+  color: #929191;
+}
+.f_menu a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}

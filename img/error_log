@@ -1,0 +1,48 @@
+[21-Sep-2015 19:20:25 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 1
+[21-Sep-2015 19:20:25 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 1
+[21-Sep-2015 19:20:25 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/index.php on line 1
+[21-Sep-2015 19:20:25 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 17
+[21-Sep-2015 19:20:25 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 17
+[21-Sep-2015 19:20:25 UTC] PHP Warning:  include(): Failed opening './inc/footer.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/index.php on line 17
+[25-Sep-2015 18:09:44 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 1
+[25-Sep-2015 18:09:44 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 1
+[25-Sep-2015 18:09:44 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/index.php on line 1
+[25-Sep-2015 18:09:44 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 17
+[25-Sep-2015 18:09:44 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 17
+[25-Sep-2015 18:09:44 UTC] PHP Warning:  include(): Failed opening './inc/footer.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/index.php on line 17
+[25-Sep-2015 18:10:29 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 1
+[25-Sep-2015 18:10:29 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 1
+[25-Sep-2015 18:10:29 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/index.php on line 1
+[25-Sep-2015 18:10:29 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 17
+[25-Sep-2015 18:10:29 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 17
+[25-Sep-2015 18:10:29 UTC] PHP Warning:  include(): Failed opening './inc/footer.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/index.php on line 17
+[18-Oct-2015 04:01:14 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 1
+[18-Oct-2015 04:01:14 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 1
+[18-Oct-2015 04:01:14 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/index.php on line 1
+[18-Oct-2015 04:01:14 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 17
+[18-Oct-2015 04:01:14 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 17
+[18-Oct-2015 04:01:14 UTC] PHP Warning:  include(): Failed opening './inc/footer.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/index.php on line 17
+[30-Oct-2015 14:08:19 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 1
+[30-Oct-2015 14:08:19 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 1
+[30-Oct-2015 14:08:19 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/index.php on line 1
+[30-Oct-2015 14:08:19 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 17
+[30-Oct-2015 14:08:19 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 17
+[30-Oct-2015 14:08:19 UTC] PHP Warning:  include(): Failed opening './inc/footer.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/index.php on line 17
+[06-Feb-2016 08:34:49 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 1
+[06-Feb-2016 08:34:49 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 1
+[06-Feb-2016 08:34:49 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/index.php on line 1
+[06-Feb-2016 08:34:49 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 17
+[06-Feb-2016 08:34:49 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 17
+[06-Feb-2016 08:34:49 UTC] PHP Warning:  include(): Failed opening './inc/footer.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/index.php on line 17
+[30-Mar-2016 03:00:04 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 1
+[30-Mar-2016 03:00:04 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 1
+[30-Mar-2016 03:00:04 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/index.php on line 1
+[30-Mar-2016 03:00:04 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 17
+[30-Mar-2016 03:00:04 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 17
+[30-Mar-2016 03:00:04 UTC] PHP Warning:  include(): Failed opening './inc/footer.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/index.php on line 17
+[29-Aug-2016 22:16:28 Asia/Dhaka] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 1
+[29-Aug-2016 22:16:28 Asia/Dhaka] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 1
+[29-Aug-2016 22:16:28 Asia/Dhaka] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/index.php on line 1
+[29-Aug-2016 22:16:28 Asia/Dhaka] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 17
+[29-Aug-2016 22:16:28 Asia/Dhaka] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/img/index.php on line 17
+[29-Aug-2016 22:16:28 Asia/Dhaka] PHP Warning:  include(): Failed opening './inc/footer.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/img/index.php on line 17
