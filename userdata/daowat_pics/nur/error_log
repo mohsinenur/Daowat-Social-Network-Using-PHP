@@ -1,0 +1,18 @@
+[25-Jan-2016 14:30:20 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 1
+[25-Jan-2016 14:30:20 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 1
+[25-Jan-2016 14:30:20 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 1
+[25-Jan-2016 14:30:20 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 17
+[25-Jan-2016 14:30:20 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 17
+[25-Jan-2016 14:30:20 UTC] PHP Warning:  include(): Failed opening './inc/footer.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 17
+[27-Jan-2016 13:19:40 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 1
+[27-Jan-2016 13:19:40 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 1
+[27-Jan-2016 13:19:40 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 1
+[27-Jan-2016 13:19:40 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 17
+[27-Jan-2016 13:19:40 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 17
+[27-Jan-2016 13:19:40 UTC] PHP Warning:  include(): Failed opening './inc/footer.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 17
+[27-Jan-2016 16:30:04 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 1
+[27-Jan-2016 16:30:04 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 1
+[27-Jan-2016 16:30:04 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 1
+[27-Jan-2016 16:30:04 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 17
+[27-Jan-2016 16:30:04 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 17
+[27-Jan-2016 16:30:04 UTC] PHP Warning:  include(): Failed opening './inc/footer.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/userdata/daowat_pics/nur/index.php on line 17

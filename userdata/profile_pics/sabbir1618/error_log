@@ -1,0 +1,6 @@
+[27-Jan-2016 18:26:45 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/userdata/profile_pics/sabbir1618/index.php on line 1
+[27-Jan-2016 18:26:45 UTC] PHP Warning:  include(./inc/connect.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/userdata/profile_pics/sabbir1618/index.php on line 1
+[27-Jan-2016 18:26:45 UTC] PHP Warning:  include(): Failed opening './inc/connect.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/userdata/profile_pics/sabbir1618/index.php on line 1
+[27-Jan-2016 18:26:45 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/userdata/profile_pics/sabbir1618/index.php on line 17
+[27-Jan-2016 18:26:45 UTC] PHP Warning:  include(./inc/footer.inc.php): failed to open stream: No such file or directory in /home/daowatco/public_html/userdata/profile_pics/sabbir1618/index.php on line 17
+[27-Jan-2016 18:26:45 UTC] PHP Warning:  include(): Failed opening './inc/footer.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daowatco/public_html/userdata/profile_pics/sabbir1618/index.php on line 17
