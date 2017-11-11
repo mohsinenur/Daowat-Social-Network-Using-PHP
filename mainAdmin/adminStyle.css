@@ -1,0 +1,249 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/*my work start from here*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body, button, input, label, select, td, textarea {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 12px;
+}
+html {
+    height: 100%;
+}
+body{
+    line-height: 1;
+    width: 100%;
+    background-color: #EEFFEE;
+    padding:0px;
+    font-size: 12px;
+    height: 100%;
+}
+div {
+  display: block;
+}
+.main {
+	height: 100%;
+	width: 100%;
+	min-width: 1070px;
+	margin: 0;
+	padding: 0;
+}
+.adminHeader {
+	margin: 0;
+	padding: 0;
+	height: 70px;
+	width: 100%;
+	min-width: 400px;
+	background-color: #0B810B;
+	text-align: center;
+	vertical-align: center;
+}
+.adminHeader h1 {
+	font-size: 30px;
+	font-weight: bold;
+	color: #fff;
+	padding: 17px 0 0 0;
+}
+.adminHeader a {
+	text-decoration: none;
+}
+.adminmenu {
+	height: 40px;
+	background-color: #207743;
+	color: #fff;
+	width: 97.66%;
+    margin: 15px;
+}
+.adminmenu a {
+	font-size: 18px;
+    text-decoration: none;
+    padding: 16px 4px;
+    color: #fff;
+}
+.adminmenu th:hover {
+	background-color: #9B9E9B;
+
+}
+.leftsidemenu {
+	width: 10%;
+	min-height: 500px;
+	min-width: 100px;
+	height: 85%;
+	margin: 15px;
+	background-color: #0B810B;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	float: left;
+}
+
+.leftsidemenu li {
+	padding: 5px;
+	font-size: 20px;
+	text-align: center;
+
+}
+.leftsidemenu a {
+	text-decoration: none;
+	color: #fff;
+}
+.leftsidemenu li:hover {
+	color: #ddd;
+}
+.welcomeContent {
+    background-color: #D0C0B0;
+    color: #0B810B;
+    margin: 15px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 2;
+}
+.welcomeContent h1 {
+	padding-top: 30px;
+	font-size: 30px;
+}
+.welcomeContent p {
+	font-size: 25px;
+}
+.rightsidemenu {
+	float: right;
+    text-align: center;
+    width: 98%;
+    margin: 0 15px 15px; 
+    background-color: #4DB849;
+    font-size: 15px;
+    color: #fff;
+}
+.rightsidemenu th {
+	margin-top: 5px;
+	border: 2px solid;
+	padding: 7px 2px;
+}
+.edituser a {
+	text-decoration: none;
+	color: #ddd;
+}
+.editpost a {
+	text-decoration: none;
+	color: #ddd;
+}
+.edituser a:hover {
+	color: #fff;
+	text-decoration: underline;
+}
+.editpost a:hover {
+	color: #fff;
+	text-decoration: underline;
+}
+.userinfo {
+	margin: 15px;
+    text-align: center;
+    width: 98%;
+    background-color: #4DB849;
+    font-size: 15px;
+    color: #fff;
+}
+.edituserdata td {
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+}
+.edituserdata input {
+	 padding: 8px;
+    margin: 4px;
+    border: none;
+    border-radius: 3px;
+    width: 250px;
+    color: #636363;
+    font-size: 15px;
+}
+.userinfo li input {
+	padding: 4px;
+	width: 200px;
+	border-radius: 3px;
+	border: none;
+	font-size: 17px;
+	color: #696969;
+}
+/*admin login style*/
+.admintable {
+
+}
+.login_body td {
+    padding: 9px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #fff;
+}
+.login_body input {
+	  padding: 8px;
+    margin: 10px;
+    border: none;
+    border-radius: 3px;
+    width: 250px;
+}
+.login_header {
+	background-color: #1A6F92;
+}
+.login_header h1 {
+    font-size: 16px;
+    padding: 11px;
+    font-weight: bold;
+    color: #fff;
+}
+.login_footer input {
+    text-align: center;
+    font-size: 16px;
+    padding: 5px 14px;
+    float: right;
+    margin: 10px 30px 14px;
+    background-color: #1A9254;
+    border: none;
+    border-radius: 3px;
+    color: #F8FFA8;
+    font-weight: bold;
+    cursor: pointer;
+}
+.login_footer td {
+	padding: 0 0 15px 0;
+}

@@ -1,0 +1,5 @@
+[21-Sep-2015 17:43:32 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/daowatco/public_html/mainAdmin/inc/connect.inc.php on line 2
+[17-Nov-2015 04:52:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daowatco/public_html/mainAdmin/editUsers.php on line 68
+[19-Nov-2015 17:25:37 UTC] PHP Warning:  unlink(../userdata/daowat_pics/): Is a directory in /home/daowatco/public_html/mainAdmin/deletedawat.php on line 19
+[12-Jan-2016 17:50:47 UTC] PHP Warning:  unlink(../userdata/daowat_pics/): Is a directory in /home/daowatco/public_html/mainAdmin/deletedawat.php on line 19
+[06-Feb-2016 19:49:48 UTC] PHP Warning:  unlink(../userdata/daowat_pics/): Is a directory in /home/daowatco/public_html/mainAdmin/deletedawat.php on line 19
