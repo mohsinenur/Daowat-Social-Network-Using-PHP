@@ -151,7 +151,8 @@ $first_name_user = $get_result['first_name'];
 				<div class="profilePosts">
 					<?php
 					//post update
-					$post = $_POST['post'];
+					//$post = $_POST['post'];
+					$post = isset($_POST['post']) ? $_POST['post'] : '';
 					$post =  trim($post);
 					$post = mysql_real_escape_string($post);
 
