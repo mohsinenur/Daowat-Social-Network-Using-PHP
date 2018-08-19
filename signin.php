@@ -203,7 +203,7 @@ $_POST['username'] = preg_replace('/\s+/','',$_POST['username']);
 						Signup email: ".$_POST['email']."
 						
 						";
-						if (@mail($_POST['email'],"Daowat Activation Code",$msg, "From:Daowat <no-reply@daowat.com>")) {
+						//if (@mail($_POST['email'],"Daowat Activation Code",$msg, "From:Daowat <no-reply@daowat.com>")) {
 							
 						$result = mysql_query("INSERT INTO users (first_name,username,email,password,gender,sign_up_date,confirmCode) VALUES ('$_POST[first_name]','$_POST[username]','$_POST[email]','$_POST[password]','$_POST[gender]','$d','$confirmCode')");
 						$_SESSION['user_loginn'] = $_POST['username'];
@@ -227,9 +227,9 @@ $_POST['username'] = preg_replace('/\s+/','',$_POST['username']);
 							Email: '.$u_email.'<br>
 							Username: '.$_POST['username'].'
 						</font></div>';
-						}else {
-							throw new Exception('Email is not valid!');
-						}
+						//}else {
+						//	throw new Exception('Email is not valid!');
+						//}
 						
 						
 					}else {
@@ -267,7 +267,7 @@ $photosrow = "./userdata/daowat_pics/".$photos_db;
 	<title>Connecting Muslim Brother</title>
 	<meta charset="uft-8">
 	<link rel="icon" href="./img/title.png" type="image/x-icon">
-	<link rel="image_src" href="http://www.daowat.com/userdata/daowat_pics/nur/1453542261.jpg" / ><!--formatted-->
+	<link rel="image_src" href="http://www.daowat.com/userdata/daowat_pics/nur/1453542261.jpg" /><!--formatted-->
 	<link rel="stylesheet" type="text/css" href="./css/style.css">
 	<meta name="description" content="Assalamu Alaikum. Join Daowat. Connect with your family. Daowat to muslim brother. Get update over the world." /><!--formatted-->
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
