@@ -96,7 +96,8 @@ $num = mysql_num_rows($result);
 
 		//daowat update and file check
 		$error = "";
-		$daowat = ($_POST['daowat']);
+		//$daowat = ($_POST['daowat']);
+		$daowat = isset($_POST['daowat']) ? $_POST['daowat'] : '';
 		$daowat =  trim($daowat);
 		$daowat = mysql_real_escape_string($daowat);
 		$pic = @$_FILES['uploadFile'];
