@@ -60,8 +60,14 @@ $get_pic_row = mysql_fetch_assoc($check_pic);
 $profile_pic_db = $get_pic_row['profile_pic'];
 //check for userfrom propic delete
 						$pro_changed = mysql_query("SELECT * FROM posts WHERE added_by='$user' AND (discription='changed his profile picture.' OR discription='changed her profile picture.' ORDER BY id DESC LIMIT 1");
-						$get_pro_changed = mysql_fetch_assoc($pro_changed);
-		$pro_num = mysql_num_rows($pro_changed);
+						//$get_pro_changed = mysql_fetch_assoc($pro_changed);
+						if ($pro_changed){
+						   $get_pro_changed = mysql_fetch_assoc($pro_changed);
+						}else $get_pro_changed ='';
+		//$pro_num = mysql_num_rows($pro_changed);
+		if($pro_changed == true){
+			$pro_num = mysql_num_rows($pro_changed);
+		}else $pro_num = 0;
 		if ($pro_num == 0) {
 			$profile_pic= "img/default_propic.png";
 		}else {
@@ -142,7 +148,8 @@ $profile_pic_db = $get_pic_row['profile_pic'];
 		<?php 
 		//post update
 		$profilehmlastid = "";
-		$post = ($_POST['post']);
+		//$post = ($_POST['post']);
+		$post = isset($_POST['post']) ? $_POST['post'] : '';
 		//$post = htmlspecialchars(@$_POST['post'], ENT_QUOTES);
 		$post = trim($post);
 		$post = mysql_real_escape_string($post);
