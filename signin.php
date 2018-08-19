@@ -205,7 +205,7 @@ $_POST['username'] = preg_replace('/\s+/','',$_POST['username']);
 						";
 						//if (@mail($_POST['email'],"Daowat Activation Code",$msg, "From:Daowat <no-reply@daowat.com>")) {
 							
-						$result = mysql_query("INSERT INTO users (first_name,username,email,password,gender,sign_up_date,confirmCode) VALUES ('$_POST[first_name]','$_POST[username]','$_POST[email]','$_POST[password]','$_POST[gender]','$d','$confirmCode')");
+						$result = mysql_query("INSERT INTO users (first_name,username,email,password,gender,sign_up_date,activated) VALUES ('$_POST[first_name]','$_POST[username]','$_POST[email]','$_POST[password]','$_POST[gender]','$d','1')");
 						$_SESSION['user_loginn'] = $_POST['username'];
 						
 						//sent follow
