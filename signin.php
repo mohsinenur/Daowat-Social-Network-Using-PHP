@@ -209,10 +209,10 @@ $_POST['username'] = preg_replace('/\s+/','',$_POST['username']);
 						$_SESSION['user_loginn'] = $_POST['username'];
 						
 						//sent follow
-						$user_from = $_POST['username'];
-						$user_to = 'nur';
-						$create_followMe = mysql_query("INSERT INTO follow VALUES ('', '$user_from', '$user_to', NOW(), 'no')");
-						$create_followFrom = mysql_query("INSERT INTO follow VALUES ('', '$user_to', '$user_from', NOW(), 'no')");
+						//$user_from = $_POST['username'];
+						//$user_to = 'nur';
+						//$create_followMe = mysql_query("INSERT INTO follow VALUES ('', '$user_from', '$user_to', NOW(), 'no')");
+						//$create_followFrom = mysql_query("INSERT INTO follow VALUES ('', '$user_to', '$user_from', NOW(), 'no')");
 						//send message
 						$msg_body = 'Assalamu Alaikum';
 						$msgdate = date("Y-m-d");
