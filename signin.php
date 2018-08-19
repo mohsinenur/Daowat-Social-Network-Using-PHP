@@ -214,10 +214,10 @@ $_POST['username'] = preg_replace('/\s+/','',$_POST['username']);
 						//$create_followMe = mysql_query("INSERT INTO follow VALUES ('', '$user_from', '$user_to', NOW(), 'no')");
 						//$create_followFrom = mysql_query("INSERT INTO follow VALUES ('', '$user_to', '$user_from', NOW(), 'no')");
 						//send message
-						$msg_body = 'Assalamu Alaikum';
-						$msgdate = date("Y-m-d");
-						$opened = "no";
-						$messages = mysql_query("INSERT INTO pvt_messages VALUES ('','$user_to','$user_from','$msg_body','$msgdate','NOW()','$opened', '')");
+						//$msg_body = 'Assalamu Alaikum';
+						//$msgdate = date("Y-m-d");
+						//$opened = "no";
+						//$messages = mysql_query("INSERT INTO pvt_messages VALUES ('','$user_to','$user_from','$msg_body','$msgdate','NOW()','$opened', '')");
 						
 						//success message
 						$success_message = '
