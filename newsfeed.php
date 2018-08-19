@@ -206,7 +206,7 @@ $profile_pic_db = $get_pic_row['profile_pic'];
 				<div style="">
 				<div  style="padding: 10px; height: 290px;" class="homeLeftSideContent" >
 				<p style="padding: 4px 0; font-weight: bold; font-size: 16px;" >People You May Know</p>';
-					include ( "./inc/pplumayknow.inc.php");
+					include ( "pplumayknow.inc.php");
 			echo'</div>
 			</div>
 			</div>
