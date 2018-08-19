@@ -2,7 +2,10 @@
 
 //check for noti
 $check_for_post_noti = mysql_query("SELECT * FROM post_comments WHERE posted_to='$user' posted_by != '$user' AND opened='no' ORDER BY id DESC");
-$post_noti_num = mysql_num_rows($check_for_post_noti);
+if($check_for_post_noti == true){
+	$post_noti_num = mysql_num_rows($check_for_post_noti);
+}else $post_noti_num = 0;
+
 $check_for_daowat_noti = mysql_query("SELECT * FROM daowat_comments WHERE daowat_to='$user' AND opened='no' ORDER BY id DESC");
 $daowat_noti_num = mysql_num_rows($check_for_daowat_noti);
 $noti_num = $post_noti_num + $daowat_noti_num;
