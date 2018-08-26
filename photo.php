@@ -37,7 +37,7 @@ else {
 
 //post update
 $error = "";
-$post = $_POST['post'];
+$post = isset($_POST['post']) ? $_POST['post'] : '';
 $post =  trim($post);
 $post = mysql_real_escape_string($post);
 $pic = @$_FILES['uploadFile'];
@@ -48,7 +48,7 @@ if ($pic != "") {
 		$file_basename = substr($profile_pic_name, 0, strripos($profile_pic_name, '.'));
 		$file_ext = substr($profile_pic_name, strripos($profile_pic_name, '.'));
 
-	if (((@$_FILES['uploadFile']['type']=='image/jpeg') || (@$_FILES['uploadFile']['type']=='image/png') || (@$_FILES['uploadFile']['type']=='image/gif')) && (@$_FILES['uploadFile']['size'] < 200000)) {
+	if (((@$_FILES['uploadFile']['type']=='image/jpeg') || (@$_FILES['uploadFile']['type']=='image/png') || (@$_FILES['uploadFile']['type']=='image/gif')) && (@$_FILES['uploadFile']['size'] < 5000000)) {
 		$chare = $user;
 		if (file_exists("userdata/profile_pics/$chare")) {
 			//nothing
@@ -75,13 +75,13 @@ if ($pic != "") {
 			}else {
 				$newsfeedshow = '0';
 			}
-			$sqlCommand = "INSERT INTO posts VALUES('', '$post', '$date_added','', '$added_by', '$user_posted_to', '$discription', '$photos','$newsfeedshow','','','')";
+			$sqlCommand = "INSERT INTO posts(body,date_added,added_by,user_posted_to,photos,newsfeedshow ) VALUES('$post', '$date_added','$added_by', '$user_posted_to', '$photos', '$newsfeedshow')";
 			$query = mysql_query($sqlCommand) or die (mysql_error());
 			header("Location: profile.php?u=$username");
 			}
 		}
 		else {
-		$error= "<p class='error_echo'>Invalid File! Your image must be no larger than 200KB and it must be either a .jpg, .jpeg, .png or .gif</p>";
+		$error= "<p class='error_echo'>Invalid File! Your image must be no larger than 5MB and it must be either a .jpg, .jpeg, .png or .gif</p>";
 		}
 	}
 }
