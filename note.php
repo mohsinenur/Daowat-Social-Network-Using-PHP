@@ -44,7 +44,7 @@ if ($post != "") {
 	$added_by = $user;
 	$user_posted_to = $username;
 	$discription = $_POST['privacy'];
-	$sqlCommand = "INSERT INTO posts VALUES('', '$post', '$date_added', '$added_by', '$user_posted_to', '$discription', '','','','1','$_POST[privacy]')";
+	$sqlCommand = "INSERT INTO posts VALUES('', '$post','', '$date_added','', '$added_by', '$user_posted_to', '','','', '$discription', '','','','1','$_POST[privacy]')";
 	$query = mysql_query($sqlCommand) or die (mysql_error());
 	header("Location: note.php?u=$user");
 }
