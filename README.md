@@ -1,5 +1,11 @@
 # DAOWAT - Social Network
 
+## Demo Login
+### Email
+  mohsingram@gmail.com<br>
+### Password
+  mohsingram<br>
+
 ## Summary
 I get curious after using facebook how this works. Then I start learning web programming. Within 4 month develop this website and host it with the domain name DAOWAT. Sorry to say, now this project is not live :(
 
