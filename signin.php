@@ -424,11 +424,6 @@ $photosrow = "./userdata/daowat_pics/".$photos_db;
 											<li>Get update over the world.</li>
 										</font>
 										</div>
-										<div class="uisignupbutton signupbutton" >
-											<a title="Visit Daowat" href="visitDaowat.php" style="text-decoration: none; font-size: 27px; color: #fff;">
-												<b>Visit Daowat</b>
-											</a>
-										</div>
 									';
 								}
 							   ?>
