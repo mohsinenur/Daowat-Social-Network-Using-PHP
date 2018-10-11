@@ -1,6 +1,11 @@
 <?php include ( "./inc/connect.inc.php" ); ?>
 <?php 
+ob_start();
 session_start();
+if (isset($_SESSION['user_login'])) {
+	header('location: signin.php');
+}
+
 
 $error = "";
 //question update
@@ -107,7 +112,7 @@ if (isset($_POST['searchRecovEmail'])) {
 			
 			N.B. If it's not by you, delete this mail or forget it.
 			";
-			mail($recovEmail,"Daowat Confirmation Code",$msg, "From:Daowat <no-reply@daowat.com>");
+			//mail($recovEmail,"Daowat Confirmation Code",$msg, "From:Daowat <no-reply@daowat.com>");
 			$success_email_cnfrm = "
 				<form action='passRecover.php' method='POST'>
 						Verification Code:</br></br><input type='text' name='confirmMailCode' class='placeholder' size='30' required autofocus></br></br>
@@ -197,7 +202,7 @@ if (isset($_POST['confrmRessetpass'])) {
 						http://www.daowat.com/confirmationPass.php?u=".$get_uName_fetch_query."&code=".$get_confirmCode_fetch_query ."
 						
 						";
-						mail($get_uEmail_fetch_query ,"Daowat Password Changed",$msg, "From:Daowat <no-reply@daowat.com>");
+						//mail($get_uEmail_fetch_query ,"Daowat Password Changed",$msg, "From:Daowat <no-reply@daowat.com>");
 					}
 				}else {
 					$error = "<p class='error_echo'>Password don't match!</p>";
@@ -248,7 +253,40 @@ if (isset($_POST['confrmRessetpass'])) {
 <body>
 
 <div>
-	<div><?php include ( "./inc/login.inc.php" ); ?></div></br></br>
+	<div>
+		<div class="headerLogin">
+			<div class="login_menubar clearfix">
+				<div class="menu_logo">
+					<h1>
+						<a title="Go to Daowat Home" href="index.php">
+							<b>daowat</b>
+						</a>
+					</h1>
+				</div>
+				<div class="menu_login_container">
+					<form action="index.php" method="POST">
+						<table class="menu_login_container">
+							<tr class="login_">
+								<td>
+								<?php
+									if (isset($user)) {
+									echo '<input type="submit" name="login" class="uiloginbutton" style="margin-top: 17px;" value="Back to home">';
+								}else {
+									echo '
+									<input type="submit" name="login" class="uiloginbutton" style="margin-top: 17px;" value="Log In / Sign Up">
+									';
+									
+									}
+								?>
+								</td>
+							</tr>
+						</table>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	</br></br>
 	<div class="pass_body1" style="min-width: 900px;">
 			<?php echo $error; ?>
 		<div class="pass_body2">
