@@ -8,14 +8,14 @@ if (!isset($_SESSION['user_login'])) {
 else {
 	$user = $_SESSION['user_login'];
 }
-
+/*
 //user location
 $user_ip = getenv('REMOTE_ADDR');
 $geo = unserialize(file_get_contents("http://www.geoplugin.net/php.gp?ip=$user_ip"));
 $city = $geo["geoplugin_city"];
 $region = $geo["geoplugin_regionName"];
 $country = $geo["geoplugin_countryName"];
-
+*/
 //update online time
 $sql = mysql_query("UPDATE users SET chatOnlineTime=now() WHERE username='$user'");
 
