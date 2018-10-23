@@ -38,6 +38,7 @@ $profile_pic_db = $get_pic_row['profile_pic'];
  <?php 
 	//daowat update and file check
 	$error = "";
+	$daowat = "";
 	$daowat = $_POST['daowat'];
 	$daowat = trim($daowat);
 	$daowat = mysql_real_escape_string($daowat);
