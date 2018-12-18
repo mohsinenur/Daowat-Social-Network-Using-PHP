@@ -3,6 +3,7 @@
 session_start();
 
 $error = "";
+$user = "";
 //question update
 //password variable
 $username = strip_tags(@$_POST['username']);
